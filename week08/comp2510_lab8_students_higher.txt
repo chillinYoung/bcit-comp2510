@@ -1,0 +1,6 @@
+Mary 3.92
+Jack 3.91
+John 3.95
+Jane 3.97
+Mike 4.0
+Young 3.98

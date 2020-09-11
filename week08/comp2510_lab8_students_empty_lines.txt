@@ -1,0 +1,26 @@
+Mary 3.55
+Jack 4.0
+John 3.91
+
+
+Jane 3.8
+Mike 3.125
+
+Young 3.7
+
+Lily 2.45
+
+Josh 2.9
+Jess 3.8
+Jae 3.94
+
+
+
+
+Vivian 4.0
+Leo 3.2
+
+
+Mary 3.9
+Ryan 3.8
+Mike 3.333

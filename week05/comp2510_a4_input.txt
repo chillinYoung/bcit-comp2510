@@ -1,0 +1,5 @@
+Hi everyone. This is a nice assignment. How is everybody
+doing? Everything is OK here.
+This is a test file. Midterm. COMP 2510
+Assignments are being graded.
+Thank you. Goodbye. bye.
